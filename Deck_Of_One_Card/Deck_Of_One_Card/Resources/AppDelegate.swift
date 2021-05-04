@@ -1,15 +1,16 @@
 //
 //  AppDelegate.swift
-//  DeckOfOneCard
+//  Deck_Of_One_Card
 //
-//  Created by Jared Warren on 12/18/19.
-//  Copyright © 2019 Warren. All rights reserved.
+//  Created by Tim Green on 5/4/21.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
+
+
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
@@ -30,4 +31,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
 
+
 }
+
